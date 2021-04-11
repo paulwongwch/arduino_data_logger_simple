@@ -1,0 +1,10 @@
+C:\Users\paulw\source\repos\arduino_data_logger_simple\arduino_data_logger_simple\bin\Debug\arduino_data_logger_simple.exe.config
+C:\Users\paulw\source\repos\arduino_data_logger_simple\arduino_data_logger_simple\bin\Debug\arduino_data_logger_simple.exe
+C:\Users\paulw\source\repos\arduino_data_logger_simple\arduino_data_logger_simple\bin\Debug\arduino_data_logger_simple.pdb
+C:\Users\paulw\source\repos\arduino_data_logger_simple\arduino_data_logger_simple\obj\Debug\arduino_data_logger_simple.csprojAssemblyReference.cache
+C:\Users\paulw\source\repos\arduino_data_logger_simple\arduino_data_logger_simple\obj\Debug\arduino_data_logger_simple.Form1.resources
+C:\Users\paulw\source\repos\arduino_data_logger_simple\arduino_data_logger_simple\obj\Debug\arduino_data_logger_simple.Properties.Resources.resources
+C:\Users\paulw\source\repos\arduino_data_logger_simple\arduino_data_logger_simple\obj\Debug\arduino_data_logger_simple.csproj.GenerateResource.cache
+C:\Users\paulw\source\repos\arduino_data_logger_simple\arduino_data_logger_simple\obj\Debug\arduino_data_logger_simple.csproj.CoreCompileInputs.cache
+C:\Users\paulw\source\repos\arduino_data_logger_simple\arduino_data_logger_simple\obj\Debug\arduino_data_logger_simple.exe
+C:\Users\paulw\source\repos\arduino_data_logger_simple\arduino_data_logger_simple\obj\Debug\arduino_data_logger_simple.pdb
